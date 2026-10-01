@@ -1,0 +1,6 @@
+{
+  "name": "Rich Hair Salon & Academy",
+  "description": "Premium unisex hair artistry, transformative styling, and certified salon academy in Akola, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
